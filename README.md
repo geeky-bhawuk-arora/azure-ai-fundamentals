@@ -1,1 +1,1 @@
-# rcat-azure-ai
+# Azure AI Fundamentals
